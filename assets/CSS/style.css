@@ -1,0 +1,22 @@
+.navbar a:hover {
+  color: blue;
+}
+.check a:hover {
+  color: black;
+}
+.learnings {
+  background-color: rgb(241, 207, 242) !important;
+}
+.card {
+  position: relative;
+}
+.card-alumni img {
+  width: 65px;
+  position: absolute;
+  top: -25px;
+  left: 80px;
+  border-radius: 35px;
+}
+.card-learning img {
+    width: 65px;
+}
